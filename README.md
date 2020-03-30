@@ -9,8 +9,6 @@ The data is from IMDB-movie ratings and having features release date, title, box
 * Matplotlib
 * Seaborn
 
-## Data Pre-Processing
-
 The data has missing values, to handle that some of the columns are deleted, some of the rows are also deleted, and applied mean value imputation. 
 
 ## Model Implementation
