@@ -1,4 +1,4 @@
-# movie_ratings_prediction
+# Predicting Internet Movie Database Ratings
 The data is from IMDB-movie ratings and having features release date, title, box-office collection, budget, director, actors etc. 
 
 ## Requirements
