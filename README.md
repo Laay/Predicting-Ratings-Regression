@@ -18,7 +18,7 @@ Applied 3 models to train and predict the movie ratings
 * Neural Network-Keras
 * Gradient Boosting Regressor
 
-## Results
+##Results
 
 The cross-validated GradientBossting Regressor has the minimum mean-squared error. 
 
