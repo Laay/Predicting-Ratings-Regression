@@ -23,3 +23,4 @@ Applied 3 models to train and predict the movie ratings
 The cross-validated GradientBossting Regressor has the minimum mean-squared error. 
 
 ![](Capture.JPG)
+
